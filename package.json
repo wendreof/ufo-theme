@@ -1,7 +1,7 @@
 {
     "name": "ufo",
     "displayName": "Ufo Theme",
-    "description": "Ufo-based theme color",
+    "description": "Ufo-based color theme to improve your VS Code",
     "icon": "icon-128x128.jpg",
     "galleryBanner.color": "#121212",
     "publisher": "wendreof",
