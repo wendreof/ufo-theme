@@ -1,10 +1,12 @@
 {
     "name": "ufo",
     "displayName": "Ufo Theme",
-    "description": "Ufo theme",
+    "description": "Ufo-based theme color",
+    "icon": "icon-128x128.jpg",
+    "galleryBanner.color": "#121212",
     "publisher": "wendreof",
-    "version": "0.0.2",
-    "repository": "github.com/wendreof/ufo-theme",
+    "version": "0.0.3",
+    "repository": "https://github.com/wendreof/ufo-theme",
     "engines": {
         "vscode": "^1.59.0"
     },
