@@ -1,8 +1,10 @@
 {
     "name": "ufo",
-    "displayName": "ufo",
-    "description": "UFO theme",
-    "version": "0.0.1",
+    "displayName": "Ufo Theme",
+    "description": "Ufo theme",
+    "publisher": "wendreof",
+    "version": "0.0.2",
+    "repository": "github.com/wendreof/ufo-theme",
     "engines": {
         "vscode": "^1.59.0"
     },
