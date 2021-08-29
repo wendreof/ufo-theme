@@ -1,11 +1,11 @@
 {
     "name": "ufo",
     "displayName": "Ufo Theme",
-    "description": "Ufo-based color theme to improve your VS Code",
+    "description": "Ufo-based color theme to improve your VS Code | The Truth is Out There",
     "icon": "images/icon-128x128.jpg",
     "galleryBanner.color": "#121212",
     "publisher": "wendreof",
-    "version": "0.0.5",
+    "version": "0.0.7",
     "repository": "https://github.com/wendreof/ufo-theme",
     "engines": {
         "vscode": "^1.59.0"
