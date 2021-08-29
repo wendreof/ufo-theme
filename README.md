@@ -1,29 +1,49 @@
-## UFO theme for VS Code
-Simple Ufo-based color theme to improve your VS Code
+<h1 align="center">
+  <br>
+    <img src="images/icon-4000x4000.jpg" alt="logo" width="200">
+  <br><br>
+  Ufo Theme
+  <br>
+  <br>
+</h1>
 
-### How to install
+<h3 align="center">Get the Ufo Theme into your VS Code.</h3>
+
+  <div align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo"><img src="https://vsmarketplacebadge.apphb.com/version-short/wendreof.ufo.svg?style=for-the-badge&colorA=252526&colorB=8769b6&label=VERSION" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo"><img src="https://vsmarketplacebadge.apphb.com/rating-short/wendreof.ufo.svg?style=for-the-badge&colorA=252526&colorB=8769b6&label=Rating" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo"><img src="https://vsmarketplacebadge.apphb.com/installs-short/wendreof.ufo.svg?style=for-the-badge&colorA=252526&colorB=8769b6&label=Installs" alt="Installs"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/wendreof.ufo.svg?style=for-the-badge&colorA=252526&colorB=8769b6&label=Downloads" alt="Downloads"></a>
+</div>
+
+
+### The Truth is Out There
+
+<img src="images/shot.png" alt="file icons">
+
+### Installing
 * Launch VS Code Quick Open (Ctrl+P)
 * Paste the following command, and press enter: ext install wendreof.ufo
 
-### How activate
+### Activating
 * Run VS Code
 * The UFO Theme will be available from File -> Preferences -> Color Theme dropdown menu
 
-### Developed and maintained by
-* [@wendreof](www.github.com/wendreof)
+### Developed/Maintained by
+<a href="https://github.com/wendreof/">
+    <img width="100px" src="https://github.com/wendreof.png" alt="Contributors" >
+    <br>
+Wendreo Fernandes
+</a>
 
 If you have any suggestions, let's get in touch
 
 ### Contributions
 * Not yet
 
-### Some Recommendations
-I strongly recommend the following plugins and fonts
+### Recommendations
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-* [Fira Code](https://github.com/tonsky/FiraCode)
-* [Cascadia Code](https://github.com/microsoft/cascadia-code)
-
-**Give it a shot! Enjoy!**
+* [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 <a href='https://www.freepik.com/vectors/logo'>Logo vector created by catalyststuff - www.freepik.com</a>
