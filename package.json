@@ -5,10 +5,15 @@
     "icon": "images/icon-128x128.jpg",
     "galleryBanner.color": "#121212",
     "publisher": "wendreof",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "repository": "https://github.com/wendreof/ufo-theme",
+    "license": "MIT",
+    "homepage": "https://github.com/wendreof/ufo-theme",
     "engines": {
         "vscode": "^1.59.0"
+    },
+    "bugs": {
+        "url": "https://github.com/wendreof/ufo-theme/issues"
     },
     "categories": [
         "Themes"
@@ -16,10 +21,24 @@
     "contributes": {
         "themes": [
             {
-                "label": "UFO",
+                "label": "dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/UFO-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "ufo",
+        "dark",
+        "theme",
+        "alien",
+        "color-theme",
+        "the-truth-is-out-there"
+    ],
+    "maintainers": [
+        "wendreof <wendreof@gmail.com>"
+    ],
+    "contributors": [
+        "wendreof"
+    ]
 }
