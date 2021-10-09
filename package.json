@@ -31,12 +31,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "dark",
+                "label": "dark (ufo)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-color-theme.json"
             },
             {
-                "label": "dark-blue",
+                "label": "dark-blue (ufo)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-blue-color-theme.json"
             }
@@ -61,5 +61,12 @@
     ],
     "dependencies": {
         "ovsx": "^0.2.1"
-    }
+    },
+    "badges": [
+        {
+            "url": "https://github.com/wendreof/ufo-theme/actions/workflows/cd.yml/badge.svg",
+            "href": "https://github.com/wendreof/ufo-theme/actions/workflows/cd.yml",
+            "description": "Deploy Extension"
+        }
+    ]
 }

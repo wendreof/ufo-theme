@@ -19,30 +19,37 @@
 
 ### The Truth is Out There
 
+#### Dark Blue
 <img src="images/shot1.png" alt="screenshot theme 1">
+
+#### Dark
 <img src="images/shot2.png" alt="screenshot theme 2">
 
-### Installing
-* Launch VS Code Quick Open (Ctrl+P)
-* Paste the following command, and press enter: ext install wendreof.ufo
+## Installation
+1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+2.  Launch Visual Studio Code
+3.  Choose **Extensions** from menu
+4.  Search for `ufo`
+5.  Click **Install** to install it
+6.  Click **Reload** to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > **dark (ufo)** or **dark-blue (ufo)**
 
-### Activating
-* Run VS Code
-* The UFO Theme will be available from File -> Preferences -> Color Theme dropdown menu
+## Contributions
+* Not yet! But if you have any suggestions, let's get in touch
 
-### Developed/Maintained by
+## Support
+When you like this extension make sure to [star the repo](https://github.com/wendreof/ufo-theme/stargazers). I am always looking for new ideas and feedback.  
+In addition, it is possible to donate <br/>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wendreof)
+
+## Developed/Maintained by
 <a href="https://github.com/wendreof/">
     <img width="100px" src="https://github.com/wendreof.png" alt="Contributors" >
     <br>
 Wendreo Fernandes
 </a>
 
-If you have any suggestions, let's get in touch
-
-### Contributions
-* Not yet
-
-### Recommendations
+## Recommendations
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
