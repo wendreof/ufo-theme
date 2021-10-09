@@ -5,7 +5,7 @@
     "icon": "images/icon-128x128.jpg",
     "galleryBanner.color": "#9b1df5",
     "publisher": "wendreof",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "preview": true,
     "repository": "https://github.com/wendreof/ufo-theme",
     "license": "MIT",
@@ -58,5 +58,8 @@
     ],
     "contributors": [
         "wendreof"
-    ]
+    ],
+    "dependencies": {
+        "ovsx": "^0.2.1"
+    }
 }
