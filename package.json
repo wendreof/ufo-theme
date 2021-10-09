@@ -3,17 +3,27 @@
     "displayName": "Ufo Theme",
     "description": "Ufo-based color theme to improve your VS Code | The Truth is Out There",
     "icon": "images/icon-128x128.jpg",
-    "galleryBanner.color": "#121212",
+    "galleryBanner.color": "#9b1df5",
     "publisher": "wendreof",
-    "version": "0.0.9",
+    "version": "0.0.10",
+    "preview": true,
     "repository": "https://github.com/wendreof/ufo-theme",
     "license": "MIT",
     "homepage": "https://github.com/wendreof/ufo-theme",
+    "galleryBanner": {
+        "color": "#400e63",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.59.0"
     },
     "bugs": {
         "url": "https://github.com/wendreof/ufo-theme/issues"
+    },
+    "scripts": {
+        "list": "vsce ls",
+        "package": "vsce package",
+        "publish": "vsce publish"
     },
     "categories": [
         "Themes"
@@ -23,7 +33,12 @@
             {
                 "label": "dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/UFO-color-theme.json"
+                "path": "./themes/dark-color-theme.json"
+            },
+            {
+                "label": "dark-blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-blue-color-theme.json"
             }
         ]
     },
@@ -33,7 +48,10 @@
         "theme",
         "alien",
         "color-theme",
-        "the-truth-is-out-there"
+        "customization",
+        "extraterrestrial",
+        "the-truth-is-out-there",
+        "unidentified-flying-object"
     ],
     "maintainers": [
         "wendreof <wendreof@gmail.com>"

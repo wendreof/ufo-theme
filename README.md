@@ -19,7 +19,8 @@
 
 ### The Truth is Out There
 
-<img src="images/shot.png" alt="file icons">
+<img src="images/shot1.png" alt="screenshot theme 1">
+<img src="images/shot2.png" alt="screenshot theme 2">
 
 ### Installing
 * Launch VS Code Quick Open (Ctrl+P)
