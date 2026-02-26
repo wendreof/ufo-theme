@@ -34,7 +34,8 @@
     "scripts": {
         "list": "vsce ls",
         "package": "vsce package",
-        "publish": "vsce publish"
+        "publish": "vsce publish",
+        "version": "npm version patch && git add package.json && git commit -m 'chore: bump version' && git push"
     },
     "categories": [
         "Themes"
