@@ -1,0 +1,85 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Alien Green",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0A1F0A", // Dark green for background
+    "editor.foreground": "#D4F4C7", // Light green for text
+    "editorCursor.foreground": "#00FF00", // Bright green for cursor
+    "editor.lineHighlightBackground": "#173F17", // Medium green for line highlight
+    "editor.selectionBackground": "#2A5F2A", // Muted green for selection
+    "editor.inactiveSelectionBackground": "#1F4F1F", // Darker green for inactive selection
+    "editorLineNumber.foreground": "#A0CFA0", // Subtle green for line numbers
+    "editorLineNumber.activeForeground": "#00FF00", // Bright green for active line number
+    "activityBar.background": "#173F17", // Medium green for activity bar
+    "sideBar.background": "#0A1F0A", // Dark green for sidebar
+    "statusBar.background": "#173F17", // Medium green for status bar
+    "tab.activeBackground": "#2A5F2A", // Active tab background
+    "tab.inactiveBackground": "#0A1F0A", // Inactive tab background
+    "tab.border": "#173F17" // Border color for tabs
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "string.comment"
+      ],
+      "settings": {
+        "foreground": "#A0CFA0" // Subtle green for comments
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other",
+        "variable.language"
+      ],
+      "settings": {
+        "foreground": "#00FF00" // Bright green for variables
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#FFD700" // Bright yellow for keywords
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#7FFF00" // Chartreuse green for strings
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#ADFF2F" // Green-yellow for numbers
+      }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#32CD32" // Lime green for function names
+      }
+    },
+    {
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "#9ACD32" // Yellow-green for parameters
+      }
+    },
+    {
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "#00FF00" // Bright green for storage types
+      }
+    },
+    {
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#7CFC00" // Lawn green for types
+      }
+    }
+  ]
+}

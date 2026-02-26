@@ -50,6 +50,17 @@
                 "label": "dark-blue (ufo)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-blue-color-theme.json"
+            },
+            {
+                "label": "Varginha",
+                "uiTheme": "vs-dark",
+                "path": "./themes/varginha-color-theme.json",
+                "default": true
+            },
+            {
+                "label": "Alien Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/alien-green-color-theme.json"
             }
         ]
     },
