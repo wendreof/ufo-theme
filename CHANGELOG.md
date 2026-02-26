@@ -4,6 +4,13 @@ All notable changes to the "ufo" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.0] - 2026-02-26
+### Added
+- Created a new theme: "I Want to Believe" inspired by the iconic UFO poster.
+
+### Changed
+- Set "Alien Green" as the default theme.
+
 ## [Unreleased]
 ### Added
 - Created a new theme: "Varginha" inspired by extraterrestrial colors.

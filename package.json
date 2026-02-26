@@ -7,10 +7,10 @@
     "publisher": "wendreof",
     "author": {
         "name": "WENDREO FERNANDES",
-        "email": "wendreof@outlook.com",
+        "email": "wendreo@outlook.com",
         "url": "https://www.linkedin.com/in/wendreof/"
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "preview": false,
     "repository": {
         "type": "git",
