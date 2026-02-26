@@ -35,6 +35,15 @@ A clean and modern light theme with bright whites, dark grays, and complementary
 
 ---
 
+## 🌌 Preview
+
+Here are some screenshots of the UFO Theme in action:
+
+![Varginha Theme](images/shot1.png)
+![Alien Green Theme](images/shot2.png)
+
+---
+
 ## 📜 Changelog
 
 Check out the [CHANGELOG.md](CHANGELOG.md) for the latest updates and improvements.
@@ -47,22 +56,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🌟 Screenshots
+## ⭐ Feedback
 
-### Varginha Theme (Default)
-![Varginha Theme](images/varginha-screenshot.png)
-
-### Alien Green Theme
-![Alien Green Theme](images/alien-green-screenshot.png)
-
-### Dark Blue Theme
-![Dark Blue Theme](images/dark-blue-screenshot.png)
-
-### Dark Theme
-![Dark Theme](images/dark-screenshot.png)
-
-### Light Theme
-![Light Theme](images/light-screenshot.png)
+If you enjoy using the UFO Theme, please consider leaving a ⭐️ rating or sharing your feedback on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?).
 
 ---
 
